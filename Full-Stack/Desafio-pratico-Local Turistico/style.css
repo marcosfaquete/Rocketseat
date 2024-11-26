@@ -3,18 +3,16 @@
     padding: 0;
 }
 
-.page {
+.container {
     
-    
+    font-family: 'Open Sans', sans-serif;
     width: 1500px;
+    height: auto;
     margin: 48px auto;
-    border-style: groove;
-    
 }
 
 .txt1 { 
-    border-style: groove;
-    color: red;
+    color: #E1624F;
     text-align: center;
     padding-right: 62%;
     font-size: 16px;
@@ -24,45 +22,114 @@
 }
 
 .h1 {
-    border-style: groove;
-    font-size: 32px;
+    font-size: 36px;
     text-align: center;
-    padding-right: 59%;
+    padding-right: 57%;
     line-height: 100%;
     font-size: 36px;
     padding-top: 18px;  
 }
 
 .divBusan {
-    border-style: groove;
     padding-top: 40px;
     text-align: center;
 }
 
 .imgBusan {
-    border-style: groove;
     border-radius: 28px;
-    
-   
 }
 
 .txtBusan {
-    border-style: groove;
     margin: 0 auto;
-    width: 80%;
-    font-size: 23px;
+    width: 75%;
+    font-size: 16px;
     text-align: center;
-    padding-top: 33px;
+    padding-top: 15px;
     border-style: groove;
     border-bottom-width: 3px;
     border-top: none;
     border-left: none;
     border-right: none;
-    
-    
+    padding-bottom: 30px;
+    border-color: rgba(253, 253, 253, 0.63); 
 }
 
 .amantesHistoria {
-
+    margin: 0 auto;
+    padding-top: 55px;
+    font-size: 16px;
+    text-align: center;
+    padding-right: 58%;
+    font-weight: bold;
+    color: #E1624F;
 }
 
+.descubraBusan {
+    font-size: 32px;
+    text-align: center;
+    padding-right: 29%;
+}
+
+.txtBusan2 {
+    
+    font-size: 16px;
+    margin-left: 190px;
+    margin-right: 12%;
+    margin-bottom: 3%;
+    
+}
+
+.divTemplo {
+    border-style: groove;
+    text-align: center;
+}
+
+.imgTemplo {
+    border-style: groove;
+    text-align: center; 
+    border-radius: 28px;
+}
+
+
+.subTemplo {
+    border-style: groove;
+    font-size: 32px;
+    padding-top: 10px;
+    padding-right: 41%;
+    
+}
+
+.txtTemplo {
+    border-style: groove;
+    padding-left: 12%;
+    padding-right: 11%;
+    
+    font-size: 16px;
+    text-align: left;
+}
+
+
+.divBeomeo {
+    border-style: groove;
+    text-align: center;
+}
+
+.imgBeomeo {
+    margin-top: 3%;
+    border-style: groove;
+    border-radius: 28px;
+}
+
+.subBeomeo{
+    margin-right: 53%;
+    margin-top: 1%;
+    font-size: 32px;
+}
+
+.txtBeomeo {
+    
+    font-size: 16px;
+    text-align: left;
+    margin-right: 12%;
+    margin-left: 12%;
+}
