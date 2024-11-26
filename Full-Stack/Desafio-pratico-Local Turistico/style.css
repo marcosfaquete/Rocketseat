@@ -3,51 +3,66 @@
     padding: 0;
 }
 
-:root {
-    font-family: "OpenSans", serif;
-}
-
-.txt1 {
+.page {
+    
+    
+    width: 1500px;
+    margin: 48px auto;
     border-style: groove;
     
+}
+
+.txt1 { 
+    border-style: groove;
     color: red;
     text-align: center;
-    padding-right: 42%;
-    font-size: 28px;
+    padding-right: 62%;
+    font-size: 16px;
+    font-weight: bold;
     margin-top: 50px ;
-    
-    
+    padding-top: 40px;
 }
 
 .h1 {
     border-style: groove;
-
-
     font-size: 32px;
     text-align: center;
-    padding-right: 46%;
-
+    padding-right: 59%;
     line-height: 100%;
     font-size: 36px;
-
-        
+    padding-top: 18px;  
 }
 
 .divBusan {
-    text-align: center;
     border-style: groove;
-
+    padding-top: 40px;
+    text-align: center;
 }
 
 .imgBusan {
+    border-style: groove;
     border-radius: 28px;
     
    
 }
 
 .txtBusan {
+    border-style: groove;
+    margin: 0 auto;
+    width: 80%;
     font-size: 23px;
     text-align: center;
+    padding-top: 33px;
     border-style: groove;
+    border-bottom-width: 3px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+    
+}
+
+.amantesHistoria {
+
 }
 
