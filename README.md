@@ -1,2 +1,3 @@
 # Rocketseat
-My projects and imersions in Rocketseat.
+
+My practices, challenges and projects at Rocketseat.
