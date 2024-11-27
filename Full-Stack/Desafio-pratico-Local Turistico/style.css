@@ -4,7 +4,6 @@
 }
 
 .container {
-    
     font-family: 'Open Sans', sans-serif;
     width: 1500px;
     height: auto;
@@ -26,7 +25,6 @@
     text-align: center;
     padding-right: 57%;
     line-height: 100%;
-    font-size: 36px;
     padding-top: 18px;  
 }
 
@@ -45,7 +43,6 @@
     font-size: 16px;
     text-align: center;
     padding-top: 15px;
-    border-style: groove;
     border-bottom-width: 3px;
     border-top: none;
     border-left: none;
@@ -71,52 +68,41 @@
 }
 
 .txtBusan2 {
-    
     font-size: 16px;
     margin-left: 190px;
     margin-right: 12%;
     margin-bottom: 3%;
-    
 }
 
-.divTemplo {
-    border-style: groove;
+.divHaedong {
     text-align: center;
 }
 
-.imgTemplo {
-    border-style: groove;
+.imgHaedong {
     text-align: center; 
     border-radius: 28px;
 }
 
-
-.subTemplo {
-    border-style: groove;
+.subHaedong {
     font-size: 32px;
     padding-top: 10px;
     padding-right: 41%;
     
 }
 
-.txtTemplo {
-    border-style: groove;
-    padding-left: 12%;
+.txtHaedong  {
+    padding-left: 13%;
     padding-right: 11%;
-    
     font-size: 16px;
     text-align: left;
 }
 
-
 .divBeomeo {
-    border-style: groove;
     text-align: center;
 }
 
 .imgBeomeo {
     margin-top: 3%;
-    border-style: groove;
     border-radius: 28px;
 }
 
@@ -127,9 +113,53 @@
 }
 
 .txtBeomeo {
-    
     font-size: 16px;
     text-align: left;
     margin-right: 12%;
     margin-left: 12%;
+}
+
+.parqueYongdusan {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.imgParqueYongdusan {
+    border-radius: 28px;
+
+}
+
+.subYongdusan {
+    font-size: 32px;
+    margin-right: 53%;
+}
+
+.txtYongdusan{
+    font-size: 16px;
+    margin-left: 12%;
+    text-align: left;
+    margin-right: 11%;
+}
+
+.txtPE {
+    border-style: groove;
+    font-size: 16px;
+    margin-left: 11%;
+    margin-right: 11%;
+    text-align: center;
+    margin-top: 2%;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    padding-top: 2%;
+    border-color: rgba(253, 253, 253, 0.63);
+}
+
+.divCreditos {
+    text-align: center;
+
+}
+
+.imgCreditos {
+    padding-top: 3%;
 }
