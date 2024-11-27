@@ -29,8 +29,12 @@ Mas claro que desafios podem apresentar alguns conteúdos ainda não vistos, mas
 ## Entrega
 Após concluir os exercícios desse desafio, você deve enviar o link do seu código no GitHub para a plataforma. 
 
-Após concluir o desafio, se você se sentir confortável, o que acha de postar no LinkedIn 
-contando como foi a sua experiência compartilhando o seu projeto e o seu aprendizado?
-É uma excelente forma de demonstrar seus conhecimentos e atrair novas oportunidades! 👀
 
-E pode marcar a gente, viu? Vai ser incrível acompanhar toda a sua evolução! 💜
+## Considerações finais
+Lembre-se que o intuito de um desafio é te impulsionar, por isso, dependendo do desafio, pode ser que você precise ir além do que foi discutido em sala de aula. 
+Mas isso não é algo ruim: ter autonomia para buscar informações extras é uma habilidade muito valiosa e vai ser ótimo pra você treinar ela aqui com a gente!
+
+E lembre-se: **tenha calma**! Enfrentar desafios faz parte do seu processo de aprendizado! 
+
+Se precisar de alguma orientação ou suporte, estamos aqui com você!
+Bons estudos e boa prática! 💜
